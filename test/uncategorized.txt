@@ -1,0 +1,10 @@
+# Uncategorized
+
+## GitMark Settings
+
+URL: chrome-extension://kjhkooemgkgginhbhbooinifnkgnjgab/options.html
+Tags: 
+Added: 2026-09-01
+
+---
+
