@@ -1,0 +1,10 @@
+# Uncategorized
+
+## Fine-grained Personal Access Tokens
+
+URL: https://github.com/settings/personal-access-tokens
+Tags: 
+Added: 2026-09-01
+
+---
+
