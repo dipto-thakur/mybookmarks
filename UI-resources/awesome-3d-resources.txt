@@ -1,0 +1,10 @@
+# awesome-3d-resources
+
+## Three.js – JavaScript 3D Library
+
+URL: https://threejs.org/
+Tags: good
+Added: 2026-09-05
+
+---
+
