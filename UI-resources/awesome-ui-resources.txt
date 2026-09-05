@@ -1,0 +1,10 @@
+# awesome-ui-resources
+
+## FeralUI · playful, physics-driven React elements
+
+URL: https://feralui.dev/
+Tags: ui, components
+Added: 2026-09-02
+
+---
+
