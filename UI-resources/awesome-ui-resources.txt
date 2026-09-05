@@ -4,7 +4,7 @@
 
 URL: https://feralui.dev/
 Tags: ui, components
-Added: 2026-09-02
+Added: 2026-09-05
 
 ---
 
@@ -20,6 +20,14 @@ Added: 2026-09-05
 
 URL: https://www.shadcn.io/
 Tags: 5 🌟
+Added: 2026-09-05
+
+---
+
+## Radix UI
+
+URL: https://www.radix-ui.com/
+Tags: basic
 Added: 2026-09-05
 
 ---
