@@ -16,3 +16,12 @@ Added: 2026-09-07
 
 ---
 
+## Pi7 Image Tool - Compress, Resize & Edit Images
+
+URL: https://image.pi7.org/
+Tags: img edits
+Note: best
+Added: 2026-09-07
+
+---
+
