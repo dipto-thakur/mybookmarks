@@ -56,3 +56,11 @@ Added: 2026-09-07
 
 ---
 
+## A beautiful library with SVG logos - Svgl
+
+URL: https://svgl.app/
+Tags: brand logos
+Added: 2026-09-14
+
+---
+
