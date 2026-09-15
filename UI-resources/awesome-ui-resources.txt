@@ -64,3 +64,11 @@ Added: 2026-09-14
 
 ---
 
+## MetalForge — Beautiful Metal shaders for SwiftUI
+
+URL: https://metalforge.xyz/
+Tags: 
+Added: 2026-09-15
+
+---
+
