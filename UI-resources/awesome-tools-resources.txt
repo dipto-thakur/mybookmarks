@@ -33,3 +33,11 @@ Added: 2026-09-14
 
 ---
 
+## Newt — pixel art, code underneath
+
+URL: https://newt.sh/
+Tags: pixelated logo maker
+Added: 2026-09-15
+
+---
+
