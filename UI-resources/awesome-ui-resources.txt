@@ -88,3 +88,11 @@ Added: 2026-09-22
 
 ---
 
+## Motion (prev Framer Motion): JavaScript & React animation library
+
+URL: https://motion.dev/
+Tags: 
+Added: 2026-09-22
+
+---
+
