@@ -96,3 +96,11 @@ Added: 2026-09-22
 
 ---
 
+## Getting Started – Vaul
+
+URL: https://vaul.emilkowal.ski/getting-started
+Tags: bottomsheet
+Added: 2026-09-24
+
+---
+
