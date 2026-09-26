@@ -41,3 +41,11 @@ Added: 2026-09-15
 
 ---
 
+## PNG to Favicon Converter - Generate ICO & All Icon Sizes - favicon.io
+
+URL: https://favicon.io/favicon-converter/
+Tags: best favicon converter, provides batches
+Added: 2026-09-26
+
+---
+
