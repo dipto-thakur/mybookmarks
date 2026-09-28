@@ -112,3 +112,11 @@ Added: 2026-09-24
 
 ---
 
+## Nexvyn UI: Polished React UI Library for Design Engineers
+
+URL: https://ui.nexvyn.dev/
+Tags: nice
+Added: 2026-09-28
+
+---
+
