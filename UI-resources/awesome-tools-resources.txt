@@ -57,3 +57,11 @@ Added: 2026-10-05
 
 ---
 
+## Write motion design prompts · oneshotprompts
+
+URL: https://oneshotprompts.com/#/motion-design
+Tags: motion design
+Added: 2026-10-22
+
+---
+
