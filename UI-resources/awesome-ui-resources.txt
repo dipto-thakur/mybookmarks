@@ -4,7 +4,7 @@
 
 URL: https://feralui.dev/
 Tags: ui, components
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -12,7 +12,7 @@ Added: 2026-10-05
 
 URL: https://www.shadcn.io/
 Tags: 5 🌟
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -20,15 +20,7 @@ Added: 2026-10-05
 
 URL: https://skiper-ui.com/
 Tags: 
-Added: 2026-10-05
-
----
-
-## Radix UI
-
-URL: https://www.radix-ui.com/
-Tags: basic
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -36,7 +28,15 @@ Added: 2026-10-05
 
 URL: https://uiverse.io/
 Tags: few but good
-Added: 2026-10-05
+Added: 2026-11-13
+
+---
+
+## Radix UI
+
+URL: https://www.radix-ui.com/
+Tags: basic
+Added: 2026-11-13
 
 ---
 
@@ -44,7 +44,7 @@ Added: 2026-10-05
 
 URL: https://vgpu.sh/
 Tags: webgpu library
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -52,7 +52,7 @@ Added: 2026-10-05
 
 URL: https://koboyo.com/icons
 Tags: handdrawn icons
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -60,7 +60,7 @@ Added: 2026-10-05
 
 URL: https://svgl.app/
 Tags: brand logos
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -68,7 +68,7 @@ Added: 2026-10-05
 
 URL: https://metalforge.xyz/
 Tags: 
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -76,7 +76,7 @@ Added: 2026-10-05
 
 URL: https://animmasterlib.dev/
 Tags: good
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -84,7 +84,7 @@ Added: 2026-10-05
 
 URL: https://www.ui-skills.com/
 Tags: skillsMD
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -92,15 +92,7 @@ Added: 2026-10-05
 
 URL: https://vaul.emilkowal.ski/getting-started
 Tags: bottomsheet
-Added: 2026-10-05
-
----
-
-## Motion (prev Framer Motion): JavaScript & React animation library
-
-URL: https://motion.dev/
-Tags: 
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -108,7 +100,15 @@ Added: 2026-10-05
 
 URL: https://base-ui.com/
 Tags: 
-Added: 2026-10-05
+Added: 2026-11-13
+
+---
+
+## Motion (prev Framer Motion): JavaScript & React animation library
+
+URL: https://motion.dev/
+Tags: 
+Added: 2026-11-13
 
 ---
 
@@ -116,7 +116,7 @@ Added: 2026-10-05
 
 URL: https://ui.nexvyn.dev/
 Tags: nice
-Added: 2026-10-05
+Added: 2026-11-13
 
 ---
 
@@ -124,7 +124,15 @@ Added: 2026-10-05
 
 URL: https://www.vengenceui.com/
 Tags: ui library
-Added: 2026-11-06
+Added: 2026-11-13
+
+---
+
+## Paper Shaders – Ultra-fast zero-dependency shaders
+
+URL: https://shaders.paper.design/
+Tags: shaders
+Added: 2026-11-13
 
 ---
 
